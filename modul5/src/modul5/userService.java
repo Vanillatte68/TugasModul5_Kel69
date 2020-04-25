@@ -27,8 +27,8 @@ private String[][] histories = new String [2][4];
         this.data = data;
         String[][] histories =
         {
-            {"Fisika Dasar", "Dasar Komputer dan Pemrograman", "dd-mm-yy"},
-            {"Dasar Komputer dan Pemrograman", "Konsep Jaringan Komputer", "dd-mm-yy"}
+            {"Fisika Dasar", "Dasar Komputer dan Pemrograman", "25-04-2020"},
+            {"Dasar Komputer dan Pemrograman", "Konsep Jaringan Komputer", "25-04-2020"}
         };
         this.histories = histories; 
     }
